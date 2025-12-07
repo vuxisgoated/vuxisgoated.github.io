@@ -1,0 +1,8 @@
+{
+  "name": "3D Particle",
+  "description": "A gesture and audio-reactive particle visualizer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
